@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RetrofitDemo</string>
+    <string name="hero_name">Hero Name \ :</string>
+    <string name="real_name">Real Name \    :</string>
+    <string name="created_by">Created by \  :</string>
+    <string name="publisher">Publisher \    \   :</string>
+    <string name="bio">Biography</string>
+    <string name="team">Team\   \      \    \   \   \   :</string>
+</resources>
